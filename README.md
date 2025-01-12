@@ -5,7 +5,7 @@
 
 - 👀 I’m currently working on [Uni Web-Development Project](https://github.com/Morar-Cristina/WEB-Project)
 
-- ✨ I’m currently learning **how to become a Business Analyst**
+- ✨ I’m currently learning **how to become the best version of me**
 
 - 📧 How to reach me **cristinamorar74@yahoo.com**
 
