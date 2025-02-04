@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🙋, I'm Crista</h1>
-<h3 align="center">Graduate student in Mathematics and Computer Science @Babes-Bolyai University | Ex-Intern ENDAVA | 
+<h3 align="center">Master’s Student in High Performance Computing & Big Data Analytics | Mathematics & Computer Science Graduate | Aspiring Software Developer 
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/1VEnfKkMGikAAAAd/lofi-girl-music.gif">
 
